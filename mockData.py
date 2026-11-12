@@ -1,0 +1,20 @@
+products=[
+    {
+        "id":1,
+        "title":'PhoneOS',
+        "price":300,
+        "count":20
+    },
+    {
+            "id":2,
+            "title":'MacOS',
+            "price":3000,
+            "count":10
+        },
+    {
+            "id":3,
+            "title":'Tab',
+            "price":100,
+            "count":9
+        }
+]
